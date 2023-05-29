@@ -2,3 +2,4 @@
 "Zeile" 
 "Zeile 3" 
 "Zeile 4" 
+"Merge test" 
