@@ -1,3 +1,4 @@
+"Zeile 0 merge test"
 "Erste Textzeile" 
 "Zeile" 
 "Zeile 3" 
