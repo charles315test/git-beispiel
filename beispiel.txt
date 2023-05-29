@@ -4,5 +4,4 @@
 "Zeile 3" 
 "Zeile 4" 
 "Merge test" 
-"Merge test master" 
 nderung im master-Zweig 
